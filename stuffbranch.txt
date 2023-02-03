@@ -1,0 +1,9 @@
+#stuff on branch >> stuffbranch.txt
+echo #stuff on branch >> stuffbranch.txt
+
+
+
+
+
+echo #stuff on branch
+#stuff on branch
